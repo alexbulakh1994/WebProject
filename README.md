@@ -15,4 +15,4 @@ WebProject
 
 
 ## UML-diagram ##
-(http://pixs.ru/showimage/UMLdiagram_6922693_11802834.jpg)
+![UML](http://ipic.su/img/img7/fs/UMLdiagram.1398189329.jpg)
