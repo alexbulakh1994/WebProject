@@ -8,6 +8,19 @@ public class Restoran {
 	
 	public Coordinate coord;//where situated restoran
 	
+	
+	public Restoran(String name){
+		this.name=name;
+	}
+	
+	public Restoran(String address, double mark, String name, Coordinate coord) {
+		this.address = address;
+		this.mark = mark;
+		this.name = name;
+		this.coord = coord;
+	}
+	
+	
 	public String getAddress() {
 		return address;
 	}
@@ -32,13 +45,7 @@ public class Restoran {
 		this.name = name;
 	}
 
-	public Restoran(String address, double mark, String name, Coordinate coord) {
-		super();
-		this.address = address;
-		this.mark = mark;
-		this.name = name;
-		this.coord = coord;
-	}
+	
 
 
 	
