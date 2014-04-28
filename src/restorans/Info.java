@@ -1,4 +1,4 @@
-package Restoran_Struct;
+package restorans;
 
 abstract class Info extends Restoran{
 

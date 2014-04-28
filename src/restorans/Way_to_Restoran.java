@@ -1,6 +1,6 @@
-package Restoran_Struct;
+package restorans;
 
-public class Way_to_Restoran extends Info{
+public class WaytoRestoran extends Info{
 
 	public Way_to_Restoran(String address, double mark, String name, Coordinate coordinate) {
 		super(address, mark, name, coordinate);

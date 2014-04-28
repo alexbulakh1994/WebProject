@@ -1,4 +1,4 @@
-package Restoran_Struct;
+package restorans;
 
 import java.util.List;
 
