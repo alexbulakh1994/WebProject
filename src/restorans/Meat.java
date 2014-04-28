@@ -1,5 +1,5 @@
 package restorans;
 
-public class Meat extends Dish{
+public class Meat extends Dish implements FastPreperable{
 
 }

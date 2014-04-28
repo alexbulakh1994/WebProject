@@ -1,6 +1,6 @@
-package Client_Struct;
+package client;
 
-import Restoran_Struct.Coordinate;
+import restorans.Coordinate;
 
 public class Client {
 	
